@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Food Identifier</string>
+    <string name="evaluate_button_title">Identify food </string>
+    <string name="reset_button_title">Restart</string>
+    <string name="food_percentage">Identification Confidence %.0f%%</string>
+    <string name="food_label">This is: %1$s</string>
+</resources>
