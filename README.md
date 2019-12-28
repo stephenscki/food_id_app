@@ -1,7 +1,6 @@
 # Food Identification App
 Android app to identify 451 different types of food. 
 Looks like this!
-![app](scrnshot_app.png)
 <img src="scrnshot_app.png" width="600"/>
 
 ## Usage
