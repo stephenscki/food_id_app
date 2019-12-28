@@ -2,7 +2,7 @@
 Android app to identify 451 different types of food. 
 Looks like this!
 ![app](scrnshot_app.png)
-<img src="https://github.com/stephenscki/food_id_app/scrnshot_app.png" width="100">
+<img src="scrnshot_app.png" width="600"/>
 
 ## Usage
 Unfortunately, the model file used cannot be uploaded to Github due to its large size (over 100 MB). To use this app yourself follow the steps below:
