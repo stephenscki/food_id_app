@@ -4,7 +4,7 @@ Looks like this!
 <img src="scrnshot_app.png" width="500"/>
 
 ## Usage
-Unfortunately, the model file used cannot be uploaded to Github due to its large size (over 100 MB). To use this app yourself follow the steps below:
+Unfortunately, the model file used cannot be uploaded to Github due to its large size (over 100 MB). (**EDIT:** I have been told that I can upload the model file to google drive and just put the link to it here.) To use this app yourself follow the steps below:
 
 1. Download the [Food-475 dataset](http://www.ivl.disco.unimib.it/activities/food475db/). That means downloading the 4 separate datasets. You may have to email a professor for the Food-101 dataset. However, Food-50 was not available, and there was no point of contact. By not using Food-50, there are only 451 types of food, not 475.
 2. When following the train/test split given, remove Food-50 references. This may create a bias, as some food classes are now missing some data. In particular, Food-50 seemed to have contained many images for Asian foods. 
